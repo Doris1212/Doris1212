@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Doris1212
 - 👀 I’m interested in cybersecurity and software develpoment
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate with great minds
+- 💞️ I’m looking to collaborate in projects
 - 📫 How to reach me obodoris1212@gmail.com
 
 <!---
